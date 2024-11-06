@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Learn more about web3
 - ⚡ Fun fact: I think I'm funny
+- 📥 How to reach me oengzhileang@gmail.com
 
 ### Connect with me:
 
