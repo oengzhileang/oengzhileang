@@ -40,10 +40,6 @@
 ---
 
 
-[facebook]: https://www.facebook.com/ImAGamerOne
-[twitter]: https://x.com/oengzhileang
-[youtube]: https://www.youtube.com/@Kdmhhh123
-[instagram]: https://www.instagram.com/oengzhileang.dev
-[linkedin]: https://www.linkedin.com/in/oeng-zhileang-915b97336/
+
 
 
