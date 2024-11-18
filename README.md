@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/facebook-light.svg)](https://www.facebook.com/ImAGamerOne#gh-light-mode-only)
-[![website](./img/facebook.svg)](https://www.facebook.com/ImAGamerOne#gh-dark-mode-only)
+[![website](./img/facebook-light.svg)](https://www.facebook.com/oengzhileang.dev#gh-light-mode-only)
+[![website](./img/facebook.svg)](https://www.facebook.com/oengzhileang.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@Kdmhhh123#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@Kdmhhh123#gh-dark-mode-only)
